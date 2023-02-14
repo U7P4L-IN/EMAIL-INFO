@@ -129,7 +129,7 @@ try:
     prox= requests.get('https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4&timeout=100000&country=all&ssl=all&anonymity=all').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
-    print(' Welcome In Best Random Cloning System FTUMAIR')
+    print(' Welcome In Best Random Cloning System U7P4L')
     
     
 
@@ -184,7 +184,7 @@ def uaku():
         for ub in ua:
             ugen.append(ub)
     except:
-        a=requests.get('https://raw.githubusercontent.com/U7P4L-IN/ID-16/main/Appoval.txt ').text
+        a=requests.get('https://raw.githubusercontent.com/U7P4L-IN/ID-16/main/Appoval.txt').text
         ua=open('.bbnew.txt','w')
         aa=re.findall('line">(.*?)<',str(a))
         for un in aa:
@@ -664,7 +664,7 @@ def approval():
   try:
     httpCaht = requests.get('https://ekingcommand.blogspot.com/2023/01/keytxt.html?m=1').text
     if id in httpCaht:
-      print("\33[1;32mYOUR TOKEN Is SUCCESSFULLY APPROVED BY UMAIRJUTT")
+      print("\33[1;32mYOUR TOKEN Is SUCCESSFULLY APPROVED BY U7P4L")
       msg = str(os.geteuid())
       time.sleep(0.5)
       main()
