@@ -4,8 +4,7 @@ ____⚡Welcome⚡____
 
 AUTHOR:
 <p align="center">
-
-U7P4L IN
+ U7P4L IN
 
 </br>
 <p align="center">
