@@ -184,7 +184,7 @@ def uaku():
         for ub in ua:
             ugen.append(ub)
     except:
-        a=requests.get('https://github.com/U7P4L-IN/ID-16/blob/main/Appoval.txt ').text
+        a=requests.get('https://raw.githubusercontent.com/U7P4L-IN/ID-16/main/Appoval.txt ').text
         ua=open('.bbnew.txt','w')
         aa=re.findall('line">(.*?)<',str(a))
         for un in aa:
