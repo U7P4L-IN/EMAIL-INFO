@@ -28,7 +28,7 @@ AUTHOR:
 
  cd ID-16
 
- python UID.py
+ python ID.py
 ```
 
 #### Tools Languages :
