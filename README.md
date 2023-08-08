@@ -96,20 +96,19 @@ And your all done!!!..and updated
 
 
 # Installation 
-```
-cd $HOME
+```python
 git clone https://github.com/U7P4L-IN/OSINT
 cd OSINT
 chmod +x *
-bash setup.sh
-```
+bash setup.sh && python OSINT
+````
 
 
 # How to update Automatically (if your using version 2.1 of OSINT and above)
 
 <h4>For Termux</h4>
 
-```
+```python
 cd $HOME
 
 OSINT
@@ -120,7 +119,7 @@ And then from the menu Type 99 and proceed to selecting termux
 
 <h4> For linux</h4>
 
-```
+```python
 cd $HOME
 
 sudo OSINT
@@ -165,7 +164,7 @@ Tick
 
 <hr>
 
-```
+```python
 Works for Termux and Linux 
 Tested 
 ```
