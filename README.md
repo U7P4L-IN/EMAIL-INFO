@@ -231,9 +231,7 @@ ModuleNotFoundError: No module named 'folium'
 
 
 <u>Solution: </u> Type <code>pkg install python-numpy</code> and then <code> pip install folium</code>
+ 
+# Give A Star ⭐
 
-
-
-
-
-  
+You can also give this repository a star to show more people and they can use this repository
