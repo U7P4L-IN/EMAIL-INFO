@@ -10,7 +10,7 @@ This Is An Osint Tool Which Gathers Useful And Yet Credible Valid Information Ab
 
   
   # Menu
-<img src="https://github.com/U7P4L-IN/OSINT/blob/master/image/IMG_20230808_204506_032.jpg" alt="OSINTv2.1" float="center"/>
+<img src="https://github.com/U7P4L-IN/OSINT/blob/master/image/ScreenShot_20230809005341.png" alt="OSINTv2.1" float="center"/>
 
   # Features
   1) IP Address information gathering
