@@ -193,7 +193,7 @@ ProtOSINT is separated in 3 sub-modules:
 - [4] Find a protonmail user PGP Key and download it right from your terminal
 And so many More
 
-# Demo protonmail OSINT
+# Demo IP Track OSINT
 <img src="https://github.com/U7P4L-IN/OSINT/blob/master/image/IMG_20230808_204507_982.jpg" float="center">
 
 More features are still to come..Stay Tuned
